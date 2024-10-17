@@ -1,2 +1,1 @@
-# BasicProjects-JS
-you will find basic JavaScripts projects here:-)
+You will find different folders for different projects :)
